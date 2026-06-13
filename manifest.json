@@ -1,0 +1,10 @@
+
+{
+"name":"SSC Grammar App",
+"short_name":"SSC Grammar",
+"start_url":"./SSC_Grammar_PWA.html",
+"display":"standalone",
+"background_color":"#ffffff",
+"theme_color":"#1a237e",
+"icons":[]
+}
