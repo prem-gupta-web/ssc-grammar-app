@@ -1,9 +1,21 @@
 {
-  "name":"SSC Grammar App",
-  "short_name":"SSC Grammar",
-  "start_url":"/ssc-grammar-app/",
-  "display":"standalone",
-  "background_color":"#ffffff",
-  "theme_color":"#1a237e",
-  "icons":[]
+  "name": "SSC Grammar App",
+  "short_name": "SSC Grammar",
+  "start_url": "/ssc-grammar-app/",
+  "scope": "/ssc-grammar-app/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a237e",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
